@@ -1,6 +1,6 @@
 
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+![image](https://github.com/user-attachments/assets/f8dcc892-d59f-4620-92fe-e462e44ad19f)
+
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
@@ -32,8 +32,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/kpPf1Rk.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/36fcab47-4f39-427c-b205-591aac71a864)
+
 </p>
 <p>
 <h2>Setup Resources in Azure</h2>
@@ -47,8 +47,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/VG8TGBM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/2d368c0c-acaa-4301-9709-40d7f86767b0)
+
 </p>
 <p>
 <h2>Ensure Connectivity between the client and Domain Controller<h/2>
@@ -61,8 +61,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/961vHwd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+   ![image](https://github.com/user-attachments/assets/5539f238-1683-4d0e-b061-f115c6fb0f61)
+
 <p>
 <h3>Install Active Directory</h3>
 
@@ -90,8 +91,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/Dop1HYy.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/fcc33c80-2749-402b-af0c-821784b23ed0)
+
 </p>
 <p>
 <h3>Join Client-1 to your domain (mydomain.com)</h3>
