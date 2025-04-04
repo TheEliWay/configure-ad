@@ -117,7 +117,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Click “Remote Desktop”
 - Allow “domain users” access to remote desktop
 - You can now log into Client-1 as a normal, non-administrative user now
-- Normally you’d want to do this with Group Policy that allows you to change MANY systems at once (maybe a future lab)
+- Normally you’d want to do this with Group Policy that allows you to change MANY systems at once.
 
 
 </p>
